@@ -6,7 +6,7 @@
   <img src="https://github.com/SP-XD/SP-XD/blob/main/hellocoders3k.gif?raw=true" alt="你好，程序员" width="625"/> <br>
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working.gif?raw=true" href="https://github.com/SP-XD" alt="编码超棒"  width="550"/> </a>  
   
-#### 大学计算机应用专业一年级学生。白天，在父亲的店铺帮忙，晚上是程序员。
+#### 一名前端开发。一名程序员。
 ### 正在收听 : 🎧  <!--img src="https://media.giphy.com/media/kC8QA2OYWOADK0e1Uk/giphy.gif" width="30" style="padding-top: 10px;" -->
 
 <!--img alt="Spotify" src="https://spotify-readme.sp-xd.vercel.app/api/spotify" href="https://open.spotify.com/user/somnathpaul" &count_private=true&bg_color=904e99&title_color=fff&text_color=fff&icon_color=f2f2f2-->
@@ -15,7 +15,7 @@
 
 <!--https://media2.giphy.com/media/M9kgjEsLG6LMbYC9dl/giphy.gif -->
 
-![](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=个人资料浏览量)
+![](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=个人资料)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FSP-XD&count_bg=%2379C83D&title_bg=%23555555&icon=mediafire.svg&icon_color=%23E7E7E7&title=点击量&edge_flat=false)](https://hits.seeyoufarm.com)
 [![telegram badge](https://img.shields.io/badge/SP-XD-灰色?style=flat&logo=telegram)](https://t.me/pik0chu007) <br>
 
